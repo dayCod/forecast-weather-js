@@ -57,7 +57,7 @@ nav {
 }
 
 .list-item > a:hover {
-  color: var(--clr-font);
+  color: var(--clr-second-item);
 }
 
 .nav-img {
